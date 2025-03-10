@@ -1,6 +1,7 @@
 **PRÉSENTATION**  
 Salut je m'appelle Stephane TALLA FOTSING titulaire d'une licence en Géographie physique.  
-Actuelemet je suis étudiant à la **[wild code school paris](https://www.wildcodeschool.com)** en **Tssr**   
+Actuelemet je suis étudiant à la **[wild code school paris](https://www.wildcodeschool.com)** en **Tssr**  
+![photo](https://github.com/stephane0528/cv-tssr/blob/main/CHIEN.jpg?raw=true)
 **EXPERIENCE PROFESSIONEL**  
  Steptembre 2023 à mai 202233 répetiteur en géographie au **GROUPE LE POEUNIX**.
 
